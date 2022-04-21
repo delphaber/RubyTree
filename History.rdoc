@@ -1,5 +1,9 @@
 = History of Changes
 
+=== [FORK]
+
+* Removed structured_warnings
+
 === 1.0.2 / 2021-12-29
 
 * A minor maintenance version to address a minor but annoying warning for

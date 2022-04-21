@@ -65,7 +65,6 @@ Gem::Specification.new do |s|
   s.rdoc_options         = ['--title', 'Rubytree Documentation', '--quiet']
 
   s.add_runtime_dependency 'json', '~> 2.6.1'
-  s.add_runtime_dependency 'structured_warnings', '~> 0.4.0'
 
   # Development dependencies.
   s.add_development_dependency 'bundler', '~> 2.3.4'
